@@ -1,10 +1,4 @@
-# P.O.O-activity
-
-Explique com suas palavras a diferença entre uma classe e um objeto e como
-esses dois conceitos se relacionam. Além disso, apresente um exemplo do mundo
-real para cada um (por exemplo, usando a classe Carro e instâncias como Fusca e
-Civic).
-
+# P.O.O - Atividade Extra
 
 ### Diferença entre Classe o Objeto
 Classe é um molde que serve para a criação de objetos, pode definir seus atributos e métodos.Os Objetos representam algo mais concreto, possuem valores definidos aos seus atributos e são capazes de executar métodos. 
@@ -19,6 +13,7 @@ Como vimos a classe serve como um molde para suas instâncias(objetos), e uma cl
 - Classe Carro: A classe carro possui alguns atributos e métodos
   - Atributos: modelo, cor, ano
   - Métodos: acelerar(), frear(), ligar(), desligar()
+- [Código do Exemplo](https://github.com/GabrFelps/P.O.O-activity/blob/main/Códigos/carros.ts)
 
 ## Contextos/Sistemas distintos em que os atributos abaixo seriam relevantes:
 
@@ -75,4 +70,17 @@ Representa as datas importantes do ano letivo, como início e término de semest
     - Penalizar_Jogador()
     - Realizar_Substituicao()
     - Iniciar_Intervalo()
-  
+
+## Questão 7:
+- ### implemente um método adicional chamado que calcule o perímetro do retângulo. Teste os métodos do retângulo.
+    - [Código da questão 7](https://github.com/GabrFelps/P.O.O-activity/blob/main/Códigos/q7.java)
+## Questão 8:
+- ### Crie uma classe Circulo que possua um atributo raio. Crie dois métodos que calculam a área e o perímetro. Instancie um objeto dessa classe, atribua um valor ao raio e exiba a área e o perímetro chamando os dois métodos definidos.
+    - [Código da questão 8](https://github.com/GabrFelps/P.O.O-activity/blob/main/Códigos/q8.java)
+## Questão 9:
+- ### Crie uma classe chamada SituacaoFinanceira com os atributos valorCreditos e valorDebitos. Crie um método chamado calcularSaldo() que retorna/calcula a diferença entre crédito e débito. Instancie uma classe SituacaoFinanceira, inicialize os dois atributos e exiba o resultado do método calcularSaldo().
+    - [Código da questão 9](https://github.com/GabrFelps/P.O.O-activity/blob/main/Códigos/q9.java)
+
+## Questão 10:
+### Modelo UML das questões 8 e 9:
+![Modelo_UML](https://github.com/GabrFelps/P.O.O-activity/blob/main/uml_img/uml.png)  
